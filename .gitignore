@@ -116,3 +116,6 @@ InitTestScene*.unity*
 # Native test executables
 /Assets/CoinCatcher/Native~/build/
 .DS_Store
+
+# VS Code
+.vscode/
